@@ -1,0 +1,31 @@
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.shipment-dialog {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.radio-group {
+  margin-bottom: 10px;
+}
+
+.radio-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.price-label {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+}

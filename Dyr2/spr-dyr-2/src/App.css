@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.inputs {
+  border: black 2px solid;
+  padding: 60px 100px;
+
+}
+
+.hh {
+  background-color: aqua;
+  padding: 30px 100px;
+}
+
+.input1 {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-top: 30px;
+  padding: 15px;
+}

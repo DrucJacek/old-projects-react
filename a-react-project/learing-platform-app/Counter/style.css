@@ -1,0 +1,64 @@
+* {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: beige;
+    margin: 0 auto;
+    margin-top: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.red {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.red:hover { 
+    transition: 0.3s;
+    max-width: 300px;
+    opacity: 0.4;
+}
+.grey {
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 20px;
+}
+.grey:hover { 
+    transition: 0.3s;
+    max-width: 300px;
+    opacity: 0.4;
+}
+.green {
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 20px;
+}
+.green:hover { 
+    transition: 0.3s;
+    max-width: 300px;
+    opacity: 0.4;
+}
+
+
+
+
+
